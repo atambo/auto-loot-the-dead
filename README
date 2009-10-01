@@ -1,0 +1,3 @@
+When a player dies there will be a loot bag sprite placed over their dead body.
+When you get close to the dead body you will automatically loot them.
+You will be given a random amount of the dead persons money and a random weapon/ammo/equipment.
